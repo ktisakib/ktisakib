@@ -29,7 +29,7 @@
 > to provide necessary **[information]()/[Resources]()/[Guide]().**
 
 > We built different types of **frictionless developer Teams** to take care of
-> the hard things : <br/> > `Tamplate building` · `Information Collection` ·
+> the hard things : <br/>  `Tamplate building` · `Information Collection` ·
 > `Resource Collection` around the globe.
 
 > We make it easy for frontend&backend teams to be **organized, Ready, and
