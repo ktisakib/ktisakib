@@ -34,8 +34,12 @@
 
 > We make it easy for frontend&backend teams to be **organized, Ready, and
 > Confidant** delightful user experiences, where performance is to the best in
-> thei career.
+> the career.
 
+
+![Metrics](https://metrics.lecoq.io/ktisakib?template=classic&isocalendar=1&languages=1&stars=1&followup=1&discussions=1&notable=1&activity=1&people=1&code=1&lines=1&repositories=1&gists=1&introduction=1&sponsors=1&stackoverflow=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=true&people.identicons.hide=true&people.size=28&people.types=followers%2C%20following&people.shuffle=true&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&stackoverflow.user=15915559&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka)
+
+<!-- 
 # Languages I am familiar with:
 
 - JavaScript
@@ -78,4 +82,4 @@
     <a href="https://github.com/ktisakib/github-readme-stats"><img alt="ktisakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ktisakib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ktisakib/github-readme-stats"><img alt="kti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktisakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <img src="https://github-profile-trophy.vercel.app/?username=ktisakib" alt="ktisakib" />
-  <br/>
+  <br/> -->
